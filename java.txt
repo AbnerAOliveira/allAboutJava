@@ -1,0 +1,37 @@
+> set JAVA_HOME=C:\Users\abner.alves.oliveira\Downloads\installsApp\jdk-18.0.2
+
+JVM FOR EACH ENVIRIMENT
+
+WORA
+
+JRE = JVM(LOADER, INTERPRETADOR, COMPILADOR JIT) + LIBS
+JDK = JRE, JAVALANG, JAVATOOLS(JAVAC,DEBUGGER,API'S)
+
+BITE CODE
+JAVAC = COMPILER
+JAVA VIRTUAL MACHINE
+JAVA.CLASS = baixo nivel
+
+Standards package
+urlsite.nomedoprojeto.modulo
+
+Two comments' types
+//
+/**/
+
+Primitive types:
+int
+
+double
+
+float
+
+char
+
+byte
+
+short
+
+long
+
+boolean
