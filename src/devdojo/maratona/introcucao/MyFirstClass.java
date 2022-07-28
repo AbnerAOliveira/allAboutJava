@@ -2,6 +2,8 @@ package src.devdojo.maratona.introcucao;
 
 public class MyFirstClass {
     public static void main(String[] args){
-        System.out.println("Olá  Mundo");
+
+        int age = 25;
+        System.out.println("I'm " + age);
     }
 }
